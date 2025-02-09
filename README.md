@@ -17,7 +17,7 @@ The dataset is downloaded using the Kaggle API and contains images of various do
 ## Setup Instructions
 ### 1. Clone the Repository
 ```bash
-git clone <repo_link>
+git clone "https://github.com/Sainy-Mishra/Dog_Breed_Classification.git"
 cd dog-breed-classification
 ```
 ### 2. Run the Notebook
