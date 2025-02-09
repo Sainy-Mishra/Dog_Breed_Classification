@@ -1,12 +1,12 @@
-# Dog Breed Classification using TensorFlow 2.0
+# 🐶 Dog Breed Classification using TensorFlow 2.0
 
 ## Overview
 This project is an end-to-end multi-class dog breed classification system using deep learning. It leverages TensorFlow 2.0 and TensorFlow Hub to classify images of dogs into their respective breeds.
 
-## Dataset
+## 💻 Dataset
 The dataset is downloaded using the Kaggle API and contains images of various dog breeds for training and testing.
 
-## Technologies Used
+## 🤖 Technologies Used
 - Python
 - TensorFlow 2.0
 - TensorFlow Hub
@@ -35,6 +35,6 @@ The project utilizes:
 ## Results
 After training, the model predicts the breed of a dog given an input image. The performance is evaluated based on accuracy and loss metrics.
 
-## Future Improvements
+## 📊 Future Improvements
 - Implementing additional deep learning architectures
 - Deploying the model as a web application
